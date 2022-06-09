@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mahzabin990
-- 👀 I’m interested in painting, hydraulogic and ground water modeling, research
+- 👀 I’m interested in painting, hydrologic and ground water modeling, research
 - 🌱 I’m currently learning python3, sobek, delft3d, gms
 
 <!---
